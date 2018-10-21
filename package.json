@@ -1,0 +1,29 @@
+{
+  "name": "AstraBot",
+  "version": "1.0.0",
+  "description": "Bot with various commands",
+  "main": "bot.js",
+  "engines": {
+    "node": "7.8.0",
+    "npm": "4.2.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puttin573/AstraBot.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "puttin573",
+  "license": "MIT",
+  "homepage": "https://github.com/puttin573/AstraBot",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
